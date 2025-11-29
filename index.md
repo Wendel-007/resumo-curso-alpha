@@ -1,4 +1,4 @@
-# ![texto alternativo](https://www.alphaonline.org.br/ead/pluginfile.php/1/core_admin/logocompact/300x300/1762369323/alpha-brasao.png){ width=20 } Resumo do Curso Alpha EdTech
+# <img src="https://www.alphaonline.org.br/ead/pluginfile.php/1/core_admin/logocompact/300x300/1762369323/alpha-brasao.png" alt="texto alternativo" width="20" /> Resumo do Curso Alpha EdTech
 
 ## 🖥️🌐 **Módulo: Redes de Computadores**
 
