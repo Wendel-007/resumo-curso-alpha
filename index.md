@@ -108,6 +108,8 @@ Por fim, analisei o impacto crescente da Inteligência Artificial (IA) nas redes
 
 ## 🗂️ **Módulo: Controle de Versão**
 
+<br>
+
 ### 🛠️ **Aula 01 — Git, VSCode e GitLens**
 
 > **Versionamento • Editor • Extensões**
