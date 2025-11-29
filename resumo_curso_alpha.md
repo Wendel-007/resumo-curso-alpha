@@ -103,3 +103,34 @@ Nesta aula, explorei tecnologias emergentes que estão moldando o futuro das red
 Compreendi como a IoT (Internet das Coisas) está expandindo o número de dispositivos interconectados, exigindo novas abordagens de escalabilidade, segurança e gerenciamento.  
 Estudei também o papel da computação em nuvem, que fornece infraestrutura flexível, distribuída e escalável para aplicações modernas, além de transformar o modo como empresas operam e armazenam dados.  
 Por fim, analisei o impacto crescente da Inteligência Artificial (IA) nas redes, desde otimização de tráfego e detecção de anomalias até automação e tomadas de decisão inteligentes em ambientes complexos.
+
+<br/>
+
+## 🗂️ **Módulo: Controle de Versão**
+
+### 🛠️ **Aula 01 — Git, VSCode e GitLens**
+
+> **Versionamento • Editor • Extensões**
+
+Nesta aula, aprendi a utilizar o Git como ferramenta fundamental de controle de versão, entendendo como registrar mudanças, acompanhar histórico e manter organização no desenvolvimento.  
+Configurei o VSCode como ambiente de trabalho principal, personalizando extensões e recursos para produtividade.  
+Também explorei o GitLens, que adiciona visualizações avançadas diretamente no editor, como autores de cada linha, histórico contextual e comparação de commits, tornando o fluxo de trabalho mais claro e eficiente.
+
+---
+
+### 🌿 **Aula 02 — Branches e Merge**
+
+> **Branches • Merge • Resolução de Conflitos**
+
+Aprendi o conceito de branches, entendendo como criar ramificações independentes para desenvolver funcionalidades, correções ou experimentos sem impactar o código principal.
+Estudei o processo de merge, integrando mudanças de forma segura e organizada.
+Aprendi também a resolver conflitos quando duas alterações colidem e o GIT não consegue descidir qual permanece após o merge.
+
+---
+
+<br/>
+
+## 🎯 **Principais Aprendizados**
+
+Este curso vem me proporcionando uma base sólida em Redes de Computadores e está fazendo eu aprender muito sobre Controle de Versão, habilidades essenciais para qualquer desenvolvedor moderno.
+Compreender Redes e Git, são competências que tornam o trabalho de um dev mais produtivo, seguro e profissional.
