@@ -1,8 +1,6 @@
-# <img src="https://www.alphaonline.org.br/ead/pluginfile.php/1/core_admin/logocompact/300x300/1762369323/alpha-brasao.png" alt="texto alternativo" width="20" /> Resumo do Curso Alpha EdTech
+# Resumo do Curso Alpha EdTech
 
 ## 🖥️🌐 **Módulo: Redes de Computadores**
-
-<br>
 
 ### 📡 **Aula 01 — Conceitos Fundamentais de Redes**
 
@@ -104,11 +102,7 @@ Compreendi como a IoT (Internet das Coisas) está expandindo o número de dispos
 Estudei também o papel da computação em nuvem, que fornece infraestrutura flexível, distribuída e escalável para aplicações modernas, além de transformar o modo como empresas operam e armazenam dados.  
 Por fim, analisei o impacto crescente da Inteligência Artificial (IA) nas redes, desde otimização de tráfego e detecção de anomalias até automação e tomadas de decisão inteligentes em ambientes complexos.
 
-<br/>
-
 ## 🗂️ **Módulo: Controle de Versão**
-
-<br>
 
 ### 🛠️ **Aula 01 — Git, VSCode e GitLens**
 
@@ -129,8 +123,6 @@ Estudei o processo de merge, integrando mudanças de forma segura e organizada.
 Aprendi também a resolver conflitos quando duas alterações colidem e o GIT não consegue descidir qual permanece após o merge.
 
 ---
-
-<br/>
 
 ## 🎯 **Principais Aprendizados**
 
